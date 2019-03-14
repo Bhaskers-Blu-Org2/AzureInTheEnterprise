@@ -1,6 +1,6 @@
-#Azure Community Support for March 2019
+# Azure Community Support for March 2019
 
-YouTube Link
+[![Alt text](https://img.youtube.com/vi/hmYL5wyJnfA/0.jpg)](https://www.youtube.com/watch?v=hmYL5wyJnfA)
 
 Topics we hit during this week's episode:
 

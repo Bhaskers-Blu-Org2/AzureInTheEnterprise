@@ -29,7 +29,7 @@ We're bringing these experts to you through our YouTube series to help other lar
 
 The Azure CXP organization is tasked with helping customers adopt Azure. Within the CXP organization, the Community Support team watches after all of our online communities and forums.
 
-- [Azure Community Support - Hot Topics for March 2019]() - and the [full episode breakdown]([Azure Community Support for March 2019](community-support/2019-march.md)).
+- [Azure Community Support - Hot Topics for March 2019]() - and the [full episode breakdown](community-support/2019-march.md).
 - [Azure Community Support - Hot Topics for April 2019]()
 - [Azure Community Support - Hot Topics for May 2019]()
 
