@@ -10,7 +10,6 @@ After our content listing - head down to the tools and links section for stuff y
 
 ## YouTube Episode Listing
 
-- 2018.11.18 - [Moving thousands of employees and projects from TFS to Azure DevOps](https://www.youtube.com/watch?v=YXdrkNtFG0A) with Henry Dixon and [Abel Wang @abelsquidhead](https://twitter.com/abelsquidhead)
 - 2017.11.16 - [Azure Service Bus in the Enterprise with Clemens Vasters]() with [Clemens Vasters @clemensv](https://twitter.com/clemensv)
 - 2017.11.09 - [Enabling Azure SQL Database Auto-Tuning at Scale for Microsoft IT](https://www.youtube.com/watch?v=hmYL5wyJnfA)
 
