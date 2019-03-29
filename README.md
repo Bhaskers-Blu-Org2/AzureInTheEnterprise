@@ -19,6 +19,24 @@ After our content listing - head down to the tools and links section for stuff y
 - [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/) - includes cloud fundamentals, reference architectures, build and deploy architectures, design guides and cloud adoption frameworks
 - [Azure Secure DevOps Toolkit](https://github.com/azsk/DevOpsKit) and [Getting Started with the Secure DevOps Kit for Azure on **Azure Friday**](https://channel9.msdn.com/Shows/Azure-Friday/Getting-started-with-the-Secure-DevOps-Kit-for-Azure-AzSK)
 
+## Core Services Engineering & Operations (formerly Microsoft IT)'s High Level Story
+
+What does it look like when Microsoft’s own Core Services Engineering & Operations (CSEO) organization runs the Line of Business applications for the company on the full suite of Microsoft Cloud services including Azure, Microsoft 365 and Azure DevOps?
+
+As of January 2019, here’s what it looks like:
+
+- SaaS (1st or 3rd party) -> PaaS -> IaaS -> On-prem VM strategy
+- $9 Million per month on Azure Spend with more on PaaS than IaaS
+- 10k+ IaaS VMs which accounts for >90% of our VM footprint
+- 100s of Azure Subscriptions
+- 100s of Line of Business Applications
+- ~5k Full Time Employees (FTEs) and ~9k Vendors all in the same Azure DevOps project
+- 1k+ Azure DevOps BUILD Pipelines executed PER DAY
+- 1k+ Azure DevOps RELEASE Pipelines executed PER DAY
+- 1000s of work items created and completed per day
+- 1000s of pull requests and commits per day
+- Migration from 12 data centers to 2
+
 ## Contact Information
 
 Please feel free to reach out with questions or a suggestion for content you'd like to see. Just reach out on [twitter](https://twitter.com/lyledodge) or [email](mailto:lyle.dodge@microsoft.com).
