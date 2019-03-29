@@ -2,7 +2,7 @@
 
 This is a landing for related content for customers to get started using Azure in the context of medium to large enterprises. The content is pointers to videos and other content produced by teams inside Microsoft, from Core Services Engineering & Operations, to other internal engineering teams, to our field teams that are working with our large customers day in and day out.
 
-The focus of *Azure in the Enterprise* is to serve the *practictioners* working on Azure day in and out, but *not* feature release information. That stuff is already greatly covered by shows such as [Azure Friday](https://azure.microsoft.com/resources/videos/azure-friday/). *Azure in the Enterprise* is meant to focus on how to put the platform itself together to solve customer challenges.
+The focus of *Azure in the Enterprise* is to serve the ***practictioners*** working on Azure day in and out, but *not* feature release information. That stuff is already greatly covered by shows such as [Azure Friday](https://azure.microsoft.com/resources/videos/azure-friday/). *Azure in the Enterprise* is meant to focus on how to put the platform itself together to solve customer challenges.
 
 What we're working on is below. Just a note - in general, we may put placeholders on content we're working on, and then adding the live links in when they're released, so don't freak out if a link isn't active yet - it means we're working on it now.
 
@@ -10,10 +10,9 @@ After our content listing - head down to the tools and links section for stuff y
 
 ## YouTube Episode Listing
 
-- 2017.11.16 - [Azure Service Bus in the Enterprise with Clemens Vasters]() with [Clemens Vasters @clemensv](https://twitter.com/clemensv)
 - 2017.11.09 - [Enabling Azure SQL Database Auto-Tuning at Scale for Microsoft IT](https://www.youtube.com/watch?v=hmYL5wyJnfA)
 
-## Other Microsoft Content to use TODAY
+## Other Content for enterprises on their Azure journey
 
 - [Microsoft IT Showcase](https://www.microsoft.com/itshowcase) - TONS of content on Microsoft's own digital transformation
 - [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/) - includes cloud fundamentals, reference architectures, build and deploy architectures, design guides and cloud adoption frameworks
@@ -36,6 +35,28 @@ As of January 2019, here’s what it looks like:
 - 1000s of work items created and completed per day
 - 1000s of pull requests and commits per day
 - Migration from 12 data centers to 2
+
+## Azure Secure DevOps Kit
+
+You should be using this today! PowerShell add-in to scan your subscription, an enterprise governance view, a visual studio add-in for secure code, and Azure DevOps CI/CD pipelines.
+
+- [Azure Secure DevOps Kit](http://aka.ms/devopskit) - Used across Microsoft's own internal Line of Business Azure Subscriptions, you can use it too. An introduction video is on [Azure Friday](http://aka.ms/devopskit/azurefriday). For the developers, it's as simple as running these lines in PowerShell:
+  - Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+  - Install-Module AzSK -Scope CurrentUser
+  - Get-AzSKSubscriptionSecurityStatus -SubscriptionId
+
+## Corporate Strategy from our Chief Digital Officer and our Chief Information Security Officer
+
+- [Microsoft Ignite 2018 - Kurt DelBene, Chief Digital Officer at Microsoft - Transforming IT: Key insights about Microsoft's own digital transformation](https://myignite.techcommunity.microsoft.com/sessions/66276)
+- [Microsoft Envision 2018 - Kurt DelBene, Chief Digital Officer at Microsoft - Microsoft's business transformation: Lessons learned along the way with 3 leading experts in their field](https://myenvision.microsoft.com/sessions/66030)
+- [Microsoft Envision 2018 - Bret Arsenault, Chief Information Security Officer at Microsoft - Cybersecurity strategy at Microsoft](https://myenvision.microsoft.com/sessions/66107)
+- [Microsoft Envision 2018 - Bret Arsenault, Chief Information Security Officer at Microsoft - Cybersecurity: Bring it to the boardroom](https://myenvision.microsoft.com/sessions/67163)
+
+## Other selected videos from Channel 9 with our CSE&O Engineers
+
+- [Enterprise Cloud at Microsoft - October 2018](https://www.youtube.com/watch?v=eacCccm-vg4) - A walk through of the Microsoft Executive Briefing Center's Enterprise Cloud at Microsoft slide deck and their journey over the last 5 years.
+- [Operations at big scale: Inside the Microsoft enterprise](https://channel9.msdn.com/events/Build/2018/THR3602)- [Pete Apple](https://twitter.com/petebobapple) speaking at Microsoft's //BUILD 2018 conference around the migration from on-premise to Azure.
+- [Building secure cloud apps – lessons learned from Microsoft’s internal security and software engineering teams](https://channel9.msdn.com/Events/Build/2018/BRK4001) - Robert Venable speaking at Microsoft's //BUILD 2018 conference.
 
 ## Contact Information
 
