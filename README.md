@@ -16,7 +16,7 @@ After our content listing - head down to the tools and links section for stuff y
 
 - [Microsoft IT Showcase](https://www.microsoft.com/itshowcase) - TONS of content on Microsoft's own digital transformation
 - [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/) - includes cloud fundamentals, reference architectures, build and deploy architectures, design guides and cloud adoption frameworks
-- [Azure Secure DevOps Toolkit](https://github.com/azsk/DevOpsKit) and [Getting Started with the Secure DevOps Kit for Azure on **Azure Friday**](https://channel9.msdn.com/Shows/Azure-Friday/Getting-started-with-the-Secure-DevOps-Kit-for-Azure-AzSK)
+- [Azure Secure DevOps Toolkit](https://github.com/azsk/DevOpsKit) and [Getting Started with the Secure DevOps Kit for Azure on Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday/Getting-started-with-the-Secure-DevOps-Kit-for-Azure-AzSK)
 
 ## Core Services Engineering & Operations (formerly Microsoft IT)'s High Level Story
 
