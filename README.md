@@ -8,11 +8,7 @@ What we're working on is below. Just a note - in general, we may put placeholder
 
 After our content listing - head down to the tools and links section for stuff you should be using TODAY, and other content from Microsoft.
 
-## YouTube Episode Listing
-
-- 2017.11.09 - [Enabling Azure SQL Database Auto-Tuning at Scale for Microsoft IT](https://www.youtube.com/watch?v=hmYL5wyJnfA)
-
-## Other Content for enterprises on their Azure journey
+## Content for enterprises on their Azure journey
 
 - [Microsoft IT Showcase](https://www.microsoft.com/itshowcase) - TONS of content on Microsoft's own digital transformation
 - [Azure Architecture Center](https://docs.microsoft.com/azure/architecture/) - includes cloud fundamentals, reference architectures, build and deploy architectures, design guides and cloud adoption frameworks
